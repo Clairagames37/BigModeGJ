@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Repos/Github/BigModeGJ/AlaModeGJ/Content/Maps/PrototypingMaps/CombatPrototyping.umap",
+				"C:/Repos/Github/BigModeGJ/AlaModeGJ/Content/Blueprints/BP_Enemy.uasset",
+				"C:/Repos/Github/BigModeGJ/AlaModeGJ/Content/Blueprints/M_TriggerZone.uasset",
+				"C:/Repos/Github/BigModeGJ/AlaModeGJ/Content/Blueprints/M_TriggerZone_Inst.uasset",
 				"D:/TheRealLife/Repos/BigModeGJ/AlaModeGJ/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
