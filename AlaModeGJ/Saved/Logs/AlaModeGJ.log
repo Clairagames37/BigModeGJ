@@ -1143,3 +1143,148 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.03-00.26.56:066][576]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2023.12.03-00.26.59:216][721]LogContentBrowser: Attempting asset rename: NewFolder -> Models
 [2023.12.03-00.26.59:217][721]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.03-00.31.36:513][121]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\fdrive\Projects\GameJams\A La Mode\Exports\IceCreamVan_LOW.fbx)
+[2023.12.03-00.31.36:534][121]LogFbx: Loading FBX Scene from C:\fdrive\Projects\GameJams\A La Mode\Exports\IceCreamVan_LOW.fbx
+[2023.12.03-00.31.36:543][121]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.03-00.32.09:992][121]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.12.03-00.32.10:133][121]LogFbx: Display: Triangulating static mesh Skirt
+[2023.12.03-00.32.10:172][121]LogStaticMesh: Display: Building static mesh IceCreamVan_LOW_Skirt...
+[2023.12.03-00.32.10:186][121]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Models/IceCreamVan_LOW_Skirt.IceCreamVan_LOW_Skirt
+[2023.12.03-00.32.10:198][121]LogFbx: Display: Triangulating static mesh Body
+[2023.12.03-00.32.10:202][121]LogStaticMesh: Display: Building static mesh IceCreamVan_LOW_Body...
+[2023.12.03-00.32.10:208][121]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Models/IceCreamVan_LOW_Body.IceCreamVan_LOW_Body
+[2023.12.03-00.32.10:213][121]LogFbx: Display: Triangulating static mesh Roof
+[2023.12.03-00.32.10:221][121]LogStaticMesh: Display: Building static mesh IceCreamVan_LOW_Roof...
+[2023.12.03-00.32.10:226][121]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Models/IceCreamVan_LOW_Roof.IceCreamVan_LOW_Roof
+[2023.12.03-00.32.10:233][121]LogFbx: Display: Triangulating static mesh FrontRightWheel
+[2023.12.03-00.32.10:240][121]LogStaticMesh: Display: Building static mesh IceCreamVan_LOW_FrontRightWheel...
+[2023.12.03-00.32.10:245][121]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Models/IceCreamVan_LOW_FrontRightWheel.IceCreamVan_LOW_FrontRightWheel
+[2023.12.03-00.32.10:251][121]LogFbx: Display: Triangulating static mesh BackRightWheel
+[2023.12.03-00.32.10:258][121]LogStaticMesh: Display: Building static mesh IceCreamVan_LOW_BackRightWheel...
+[2023.12.03-00.32.10:264][121]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Models/IceCreamVan_LOW_BackRightWheel.IceCreamVan_LOW_BackRightWheel
+[2023.12.03-00.32.10:269][121]LogFbx: Display: Triangulating static mesh BackLeftWheel
+[2023.12.03-00.32.10:276][121]LogStaticMesh: Display: Building static mesh IceCreamVan_LOW_BackLeftWheel...
+[2023.12.03-00.32.10:281][121]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Models/IceCreamVan_LOW_BackLeftWheel.IceCreamVan_LOW_BackLeftWheel
+[2023.12.03-00.32.10:289][121]LogFbx: Display: Triangulating static mesh FrontLeftWheel
+[2023.12.03-00.32.10:297][121]LogStaticMesh: Display: Building static mesh IceCreamVan_LOW_FrontLeftWheel...
+[2023.12.03-00.32.10:305][121]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Models/IceCreamVan_LOW_FrontLeftWheel.IceCreamVan_LOW_FrontLeftWheel
+[2023.12.03-00.32.10:353][121]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.12.03-00.32.10:948][124]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: ================================================
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: Total job queries 60, among them cache hits 4 (6.67%)
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: Tracking 49 distinct input hashes that result in 39 distinct outputs (79.59%)
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: RAM used: 1.03 MiB of 1.60 GiB budget. Usage: 0.06%
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: Shaders Compiled: 49
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: Jobs assigned 52, completed 49 (94.23%)
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: Average time worker was idle: 42.18 s
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.35 s
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 1.02 s
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: Job life time (pending + execution): average 0.48 s, max 1.04
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: Shader code size: average 33.019 KiB, min 4.359 KiB, max 43.316 KiB
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.42 s
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: Jobs were issued in 52 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: Average processing rate: 14.33 jobs/sec
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: Total thread time: 10.9 s
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: Total thread preprocess time: 1.254 s
+[2023.12.03-00.32.11:568][129]LogShaderCompilers: Display: Percentage time preprocessing: 11.50%
+[2023.12.03-00.32.11:569][129]LogShaderCompilers: Display: Effective parallelization: 3.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.12.03-00.32.11:569][129]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.03-00.32.11:569][129]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2023.12.03-00.32.11:569][129]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 0.27 sec, max 0.36 sec, min 0.20 sec)
+[2023.12.03-00.32.11:569][129]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2023.12.03-00.32.11:569][129]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    7 times, average 0.23 sec, max 0.26 sec, min 0.19 sec)
+[2023.12.03-00.32.11:569][129]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2023.12.03-00.32.11:569][129]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.03-00.32.11:569][129]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.73% of total time (compiled   12 times, average 0.27 sec, max 0.36 sec, min 0.20 sec)
+[2023.12.03-00.32.11:569][129]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.28% of total time (compiled   12 times, average 0.22 sec, max 0.28 sec, min 0.17 sec)
+[2023.12.03-00.32.11:569][129]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.53% of total time (compiled    7 times, average 0.23 sec, max 0.26 sec, min 0.19 sec)
+[2023.12.03-00.32.11:569][129]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.71% of total time (compiled    8 times, average 0.13 sec, max 0.22 sec, min 0.09 sec)
+[2023.12.03-00.32.11:569][129]LogShaderCompilers: Display:                                                  FHitProxyVS - 3.86% of total time (compiled    2 times, average 0.21 sec, max 0.26 sec, min 0.16 sec)
+[2023.12.03-00.32.11:569][129]LogShaderCompilers: Display: ================================================
+[2023.12.03-00.32.12:962][136]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.03-00.32.19:811][380]LogSlate: Window 'Message Log' being destroyed
+[2023.12.03-00.32.19:816][380]LogSlate: Window 'Message Log' being destroyed
+[2023.12.03-00.32.41:843][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.12.03-00.32.43:015][977]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.03-00.32.43:036][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.12.03-00.32.43:040][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.12.03-00.32.43:043][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.12.03-00.35.17:684][612]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\fdrive\Projects\GameJams\A La Mode\Exports\IceCreamVan_LOW.fbx)
+[2023.12.03-00.35.17:688][612]LogFbx: Loading FBX Scene from C:\fdrive\Projects\GameJams\A La Mode\Exports\IceCreamVan_LOW.fbx
+[2023.12.03-00.35.17:692][612]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.03-00.35.18:773][612]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.12.03-00.35.18:853][612]LogFbx: Display: Triangulating static mesh IceCreamVan_CombinedMesh
+[2023.12.03-00.35.18:872][612]LogStaticMesh: Display: Building static mesh IceCreamVan_LOW...
+[2023.12.03-00.35.18:883][612]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Models/IceCreamVan_LOW.IceCreamVan_LOW
+[2023.12.03-00.35.18:905][612]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: ================================================
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Total job queries 62, among them cache hits 6 (9.68%)
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Tracking 52 distinct input hashes that result in 40 distinct outputs (76.92%)
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: RAM used: 1.09 MiB of 1.60 GiB budget. Usage: 0.07%
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Shaders Compiled: 52
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Jobs assigned 52, completed 52 (100%)
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Average time worker was idle: 42.18 s
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.35 s
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 1.02 s
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Job life time (pending + execution): average 0.48 s, max 1.04
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Shader code size: average 33.141 KiB, min 4.359 KiB, max 43.316 KiB
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.53 s
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Jobs were issued in 52 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Average processing rate: 14.75 jobs/sec
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Total thread time: 11.45 s
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Total thread preprocess time: 1.332 s
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Percentage time preprocessing: 11.63%
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Effective parallelization: 3.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   13 times, average 0.27 sec, max 0.36 sec, min 0.20 sec)
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    8 times, average 0.22 sec, max 0.26 sec, min 0.17 sec)
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.10% of total time (compiled   13 times, average 0.27 sec, max 0.36 sec, min 0.20 sec)
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.62% of total time (compiled   13 times, average 0.22 sec, max 0.28 sec, min 0.17 sec)
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.33% of total time (compiled    8 times, average 0.22 sec, max 0.26 sec, min 0.17 sec)
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.25% of total time (compiled    8 times, average 0.13 sec, max 0.22 sec, min 0.09 sec)
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display:                                                  FHitProxyVS - 3.68% of total time (compiled    2 times, average 0.21 sec, max 0.26 sec, min 0.16 sec)
+[2023.12.03-00.35.19:025][612]LogShaderCompilers: Display: ================================================
+[2023.12.03-00.35.23:919][690]LogSlate: Window 'Message Log' being destroyed
+[2023.12.03-00.35.23:923][690]LogSlate: Window 'Message Log' being destroyed
+[2023.12.03-00.35.26:060][734]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Models/IceCreamVan_LOW.IceCreamVan_LOW
+[2023.12.03-00.35.26:257][734]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.03-00.35.26:258][734]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.03-00.35.26:821][734]LogViewport: Scene viewport resized to 1401x772, mode Windowed.
+[2023.12.03-00.35.41:162][977]LogSlate: Window 'IceCreamVan_LOW' being destroyed
+[2023.12.03-00.35.41:205][977]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.12.03-00.35.41:205][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.03-00.35.47:627][341]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.03-00.35.47:636][341]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.03-00.35.47:641][342]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.03-00.35.52:796][609]LogContentBrowser: Attempting asset rename: NewFolder -> Environment
+[2023.12.03-00.35.52:796][609]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.03-00.35.56:224][778]LogContentBrowser: Attempting asset rename: Environment -> Environments
+[2023.12.03-00.35.58:509][961]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.03-00.35.58:519][961]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.03-00.35.58:524][962]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.03-00.36.05:176][315]LogContentBrowser: Attempting asset rename: NewFolder -> Characters
+[2023.12.03-00.36.05:176][315]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.03-00.36.11:096][604]LogMetaData: Removing '/Game/Assets/Models/Environments/IceCreamVan_LOW.IceCreamVan_LOW' ref from Metadata '/Game/Assets/Models/IceCreamVan_LOW.PackageMetaData'
+[2023.12.03-00.36.11:108][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.03-00.36.11:228][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Models/Environments/IceCreamVan_LOW" FILE="../../../../../Users/Public/Repos/AlaModeGJ/Content/Assets/Models/Environments/IceCreamVan_LOW.uasset" SILENT=true
+[2023.12.03-00.36.11:235][604]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.005427 seconds
+[2023.12.03-00.36.11:245][604]LogSavePackage: Moving output files for package: /Game/Assets/Models/Environments/IceCreamVan_LOW
+[2023.12.03-00.36.11:245][604]LogSavePackage: Moving '../../../../../Users/Public/Repos/AlaModeGJ/Saved/IceCreamVan_LOW4364F46C4208B07F87A02A9F6BE77D2D.tmp' to '../../../../../Users/Public/Repos/AlaModeGJ/Content/Assets/Models/Environments/IceCreamVan_LOW.uasset'
+[2023.12.03-00.36.11:925][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Models/Environments/standardSurface1" FILE="../../../../../Users/Public/Repos/AlaModeGJ/Content/Assets/Models/Environments/standardSurface1.uasset" SILENT=true
+[2023.12.03-00.36.11:926][604]LogSavePackage: Moving output files for package: /Game/Assets/Models/Environments/standardSurface1
+[2023.12.03-00.36.11:926][604]LogSavePackage: Moving '../../../../../Users/Public/Repos/AlaModeGJ/Saved/standardSurface1CD8F81254697CF0AC62E2A8B5A0F2AD3.tmp' to '../../../../../Users/Public/Repos/AlaModeGJ/Content/Assets/Models/Environments/standardSurface1.uasset'
+[2023.12.03-00.36.11:932][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 823 ms
+[2023.12.03-00.36.11:942][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.12.03-00.36.11:946][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.12.03-00.36.11:949][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.12.03-00.36.11:960][604]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.03-00.36.11:960][604]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Models/Environments/IceCreamVan_LOW.IceCreamVan_LOW
+[2023.12.03-00.36.11:960][604]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Models/Environments/standardSurface1.standardSurface1
