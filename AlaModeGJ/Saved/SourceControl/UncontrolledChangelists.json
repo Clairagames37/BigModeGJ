@@ -5,9 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/TheRealLife/Repos/BigModeGJ/AlaModeGJ/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/TheRealLife/Repos/BigModeGJ/AlaModeGJ/Content/Assets/Level/MountLavish.umap",
+				"D:/TheRealLife/Repos/BigModeGJ/AlaModeGJ/Content/Assets/Level/MountLavish_SL01.umap",
+				"D:/TheRealLife/Repos/BigModeGJ/AlaModeGJ/Content/Assets/Level/MetricsLevel.umap",
 				"C:/Users/Public/Repos/AlaModeGJ/Content/Assets/Models/Environments/IceCreamVan_LOW.uasset",
-				"C:/Users/Public/Repos/AlaModeGJ/Content/Assets/Models/Environments/standardSurface1.uasset",
-				"D:/TheRealLife/Repos/BigModeGJ/AlaModeGJ/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"C:/Users/Public/Repos/AlaModeGJ/Content/Assets/Models/Environments/standardSurface1.uasset"
 			]
 		}
 	]
